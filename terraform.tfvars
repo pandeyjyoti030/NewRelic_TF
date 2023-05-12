@@ -1,5 +1,5 @@
 var-name = [ "Apdex-1(Low)","Apdex-2(Low)" ]
-application_name = "pitambar"
+application_name = "JYOTI"
 account_id = 3930396
 incident_preference="PER_POLICY"
 apdex_warning_threshold = 0.8
